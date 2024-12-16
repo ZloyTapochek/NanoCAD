@@ -1,0 +1,50 @@
+﻿<Table>
+  <MarkableInfo>
+    <Text>Активное оборудование</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Кабельные организаторы</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Панель блока розеток</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Горизонтальный кросс</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>HC</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Промежуточный кросс</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>IC</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Главный кросс</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>MC</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Телефонный кросс</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>TC</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Панель второго представления</Text>
+    <Mask>&lt;Привязка к БД&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>DC</VariantId>
+  </MarkableInfo>
+</Table>

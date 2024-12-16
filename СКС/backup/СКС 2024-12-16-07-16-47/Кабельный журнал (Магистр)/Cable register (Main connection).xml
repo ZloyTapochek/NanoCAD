@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Кабельный журнал (Магистр.)</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>True</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>WpToShellCableDicPattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="CableDicWpToShellPatternDocumentItem">
+          <Properties>
+            <CadDocBlocks>cable_register.dwg</CadDocBlocks>
+            <CadDocFirstPage>A3(420x297)-1.dwg</CadDocFirstPage>
+            <CadDocSecondPage>A3(420x297)-2.dwg</CadDocSecondPage>
+            <IsCategorized>False</IsCategorized>
+            <PageFormat>ISO_A3_(420.00_x_297.00_MM)</PageFormat>
+            <PerNextPage>22</PerNextPage>
+            <PerStartPage>18</PerStartPage>
+            <Text>Документ</Text>
+            <WordDocTemplate>A3(420x297).dot</WordDocTemplate>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>POS</Tag>
+                <Text>№ п/п</Text>
+                <Visible>True</Visible>
+                <Width>15</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>CAB_N</Tag>
+                <Text>№ Кабеля</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>PORT_FROM</Tag>
+                <Text>От: Порт</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>PAN_FROM</Tag>
+                <Text>От: Панель</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>SH_FROM</Tag>
+                <Text>От: Стойка</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>ROOM_FROM</Tag>
+                <Text>От: Помещение</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>PORT_TO</Tag>
+                <Text>До: Порт</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>PAN_TO</Tag>
+                <Text>До: Панель</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>SH_TO</Tag>
+                <Text>До: Стойка</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>ROOM_TO</Tag>
+                <Text>До: Помещение</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>CAB_NAME</Tag>
+                <Text>Кабель: Имя</Text>
+                <Visible>True</Visible>
+                <Width>55</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>U_PAIRS</Tag>
+                <Text>Пары</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>CAB_LEN</Tag>
+                <Text>Кабель: Длина:</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>PRP</Tag>
+                <Text>Назначение</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>LABEL</Tag>
+                <Text>Примечание</Text>
+                <Visible>True</Visible>
+                <Width>60</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="CableDicPatternTableItem">
+              <Properties>
+                <HasEndSpaceLine>True</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Name>CabelDictRecord</Name>
+                <Text>Запись кабельного журнала</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>№ п/п</DocumentColumn>
+                    <DocumentOutputMask>[CableCounter+]</DocumentOutputMask>
+                    <IsCategorized>False</IsCategorized>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№ п/п</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>№ Кабеля</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;N Кабеля&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№ Кабеля</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>От: Порт</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;От: Порт&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>От: Порт</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>От: Панель</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;От: Панель&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>От: Панель</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>От: Стойка</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;От: Стойка&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>От: Стойка</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>От: Помещение</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;От: Помещение&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>От: Помещение</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>До: Порт</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;До: Порт&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>До: Порт</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>До: Панель</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;До: Панель&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>До: Панель</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>До: Стойка</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;До: Стойка&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>До: Стойка</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>До: Помещение</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;До: Помещение&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>До: Помещение</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Кабель: Имя</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Кабель: Имя&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Кабель: Имя</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Пары</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Пары&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Пары</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Кабель: Длина:</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Кабель: Длина:&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Кабель: Длина:</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Назначение</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Назначение&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Назначение</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Примечание</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Примечание&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Примечание</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternCounterItem">
+                  <Properties>
+                    <Description>Счетчик</Description>
+                    <Name>CableCounter</Name>
+                    <Start>0</Start>
+                  </Properties>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+    </Child>
+  </Children>
+</DocReport>

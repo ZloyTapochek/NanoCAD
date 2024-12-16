@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaeSchemaRootItem>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+  </Properties>
+  <Children>
+    <Child TypeName="SchemaDimensions">
+      <Properties>
+        <BoxHeightSer>20</BoxHeightSer>
+        <BoxPosHeightSer>2,5</BoxPosHeightSer>
+        <BoxWidth>16</BoxWidth>
+        <ConfName>По умолчанию</ConfName>
+        <DefaultHorizontalThread1PosSer>45</DefaultHorizontalThread1PosSer>
+        <HorizontalThreadDistance>1,25</HorizontalThreadDistance>
+        <IsCategorized>False</IsCategorized>
+        <LayerName1>WP_PANEL_TP</LayerName1>
+        <LayerName2>WP_PANEL_OPTIC</LayerName2>
+        <LayerName3>WP_CROSS</LayerName3>
+        <LayerName4>PANEL_PANEL_TP</LayerName4>
+        <LayerName5>PANEL_PANEL_OPTIC</LayerName5>
+        <LayerName6>PANEL_CROSS</LayerName6>
+        <LayerName7>CROSS_CROSS</LayerName7>
+        <PipeBoxDistance>5</PipeBoxDistance>
+        <StartFloorHeight>50</StartFloorHeight>
+        <ThreadColor2>#FF1E90FF</ThreadColor2>
+        <ThreadColor3>#FFFFD700</ThreadColor3>
+        <ThreadColor4>#FFFF0000</ThreadColor4>
+        <ThreadColor5>#FF00FFFF</ThreadColor5>
+        <ThreadColor6>#FF4B0082</ThreadColor6>
+        <ThreadColor7>#FF9932CC</ThreadColor7>
+        <VerticalThread1PosInPipe>6</VerticalThread1PosInPipe>
+        <VerticalThreadDistance>1,25</VerticalThreadDistance>
+        <Width1>kLnWt020</Width1>
+        <Width2>kLnWt020</Width2>
+        <Width3>kLnWt020</Width3>
+        <Width4>kLnWt020</Width4>
+        <Width5>kLnWt020</Width5>
+        <Width6>kLnWt020</Width6>
+        <Width7>kLnWt020</Width7>
+        <WpHeight>7,5</WpHeight>
+        <WpPosHeight>2,5</WpPosHeight>
+        <WpWidth>8</WpWidth>
+      </Properties>
+    </Child>
+  </Children>
+</CaeSchemaRootItem>
