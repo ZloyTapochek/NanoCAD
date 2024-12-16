@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Type="СКС" Name="СКС1" Version="1">
+  <Files />
+  <Custom>
+    <ScsProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <StampCustomerName />
+      <StampBuildingAddress />
+      <StampObjectUsing />
+      <StampObjectZero />
+      <StampProjectName />
+      <StampProjectStage />
+      <StampProjectCode />
+      <StampOrganizationName />
+      <StampOrganizationCode />
+      <StampDocumentCode>&lt;Код организации разработчика&gt;-&lt;Код классификационной характеристики изделия&gt;-&lt;Порядковый номер проекта&gt;-&lt;Номер редакции проекта&gt;-&lt;Стадия проекта в номере&gt;-&lt;Номер тома&gt;-&lt;Обозначение документа&gt;-&lt;Порядковый номер документа&gt;</StampDocumentCode>
+      <StampExDeveloper />
+      <StampExCheck />
+      <StampExManager />
+      <StampExDepManager />
+      <StampExNControl />
+      <StampExConfirm />
+      <StampGIP />
+      <Guid>5840a759-5b13-4e3f-ad8b-a39dc0391156</Guid>
+      <HeightList />
+      <MountFreqList />
+      <IsFarLinksConverted>false</IsFarLinksConverted>
+      <TraceRoutingMethod>Precise</TraceRoutingMethod>
+      <ReserveForTraceRouteMethod>20</ReserveForTraceRouteMethod>
+      <AddLengthPtoP>10</AddLengthPtoP>
+      <AddLengthPan>4</AddLengthPan>
+      <AddLengthPort>1</AddLengthPort>
+      <LengthSafeCoef>10</LengthSafeCoef>
+      <NumWpAlgorithm>Wp_Room_Alg</NumWpAlgorithm>
+      <MaxCuprumLength>90</MaxCuprumLength>
+      <MinHorizontalLength>15</MinHorizontalLength>
+      <MaxCanalFill>40</MaxCanalFill>
+      <MaxGutterFill>50</MaxGutterFill>
+      <MaxTubeFill>50</MaxTubeFill>
+      <SquarePerWp>4.5</SquarePerWp>
+      <WpNoteShift>5</WpNoteShift>
+      <HorizontalCrossMrk>HC</HorizontalCrossMrk>
+      <IntermediateCrossMrk>IC</IntermediateCrossMrk>
+      <MainCrossMrk>MC</MainCrossMrk>
+      <PhoneCrossMrk>TC</PhoneCrossMrk>
+      <SecondViewCrossMrk>DC</SecondViewCrossMrk>
+      <PanelId>-1</PanelId>
+      <PanelOrder>MIDDLE</PanelOrder>
+      <PanelName>Панель</PanelName>
+      <HasPhoneCross>false</HasPhoneCross>
+      <PhoneId>-1</PhoneId>
+      <PhoneOrder>START</PhoneOrder>
+      <PhoneName>Панель</PhoneName>
+      <HasCommutation>false</HasCommutation>
+      <CommutationId>-1</CommutationId>
+      <СommutationOrder>START</СommutationOrder>
+      <CommutationName>Панель</CommutationName>
+      <HasSecondView>false</HasSecondView>
+      <SecondPanelId>-1</SecondPanelId>
+      <SecondViewOrder>START</SecondViewOrder>
+      <SecondViewName>Панель</SecondViewName>
+      <DistributeByLevel>false</DistributeByLevel>
+      <AttachMethod>ATTACH_ALL</AttachMethod>
+      <MeasureUnit>METRE</MeasureUnit>
+      <CableCanalMeasureUnit>METRE</CableCanalMeasureUnit>
+      <GutterMeasureUnit>METRE</GutterMeasureUnit>
+      <IsWorkPlacesConverted>false</IsWorkPlacesConverted>
+    </ScsProject>
+  </Custom>
+</Project>
