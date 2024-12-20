@@ -178,6 +178,3932 @@
         <IsCategorized>False</IsCategorized>
         <Text>Данные</Text>
       </Properties>
+      <Children>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ARK 1: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>ARK 1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,98</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>4,38</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,98</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>4,38</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,98</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>4,38</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,98</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>4,38</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,98</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>4,38</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.6</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>4,85</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>5,33</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.7</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>4,1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>4,51</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>ARK 1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>10,97</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>12,07</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>Без имени: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X.X</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>Без имени: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>Без имени: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X.X</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>Без имени: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>X.7</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>68,38</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>75,22</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.1-8: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>11,88</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>13,06</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>2,19</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>2,41</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.1-8: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>17,87</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>19,66</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>2,82</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>3,1</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.1-8: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>15,67</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>17,24</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,42</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>3,76</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.1-8: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>28,08</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>30,89</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,69</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,86</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.9-16: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>30,71</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>33,79</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>3,02</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>3,32</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.9-16: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>38,46</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>42,31</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>4,77</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>5,25</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.9-16: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>47,97</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>52,77</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>4,77</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>5,25</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.9-16: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>55,72</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>61,3</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.17-24: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>34,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>37,97</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.17-24: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>37,97</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>41,77</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.17-24: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>41,41</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>45,55</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.17-24: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>45,06</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>49,56</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.25-32: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>47,6</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>52,36</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.25-32: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>50,98</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>56,08</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.25-32: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>68,24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>75,07</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>5,02</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>5,52</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.25-32: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>75,21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>82,74</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>2,92</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>3,21</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.33-40: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>68,41</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>75,26</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>2,92</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>3,21</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.33-40: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>60,07</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>66,08</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.33-40: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>56,94</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>62,63</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.33-40: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>53,41</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>58,75</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.49-56: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>36,56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>40,22</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.49-56: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>33,19</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>36,51</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.41-48: ШС 1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>49,2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>54,12</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.41-48: ШС 1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>45,88</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>50,47</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН2.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН2.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.41-48: ШС 1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>42,56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>46,81</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН3.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН3.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.41-48: ШС 1.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>39</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>42,9</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1ВТН4.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1ВТН4.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>1,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>1,67</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
     </Child>
   </Children>
 </DocReport>

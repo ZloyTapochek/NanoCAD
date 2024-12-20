@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Кабельный журнал электропитания</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>True</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>SignalDicPattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="OpsCableDicInterfacePatternDocumentItem">
+          <Properties>
+            <CadDocBlocks>cable_register.dwg</CadDocBlocks>
+            <CadDocFirstPage>A4(210x297)-1_form3.dwg</CadDocFirstPage>
+            <CadDocSecondPage>A4(210x297)-2.dwg</CadDocSecondPage>
+            <IsCategorized>False</IsCategorized>
+            <PageFormat>ISO_A4_(210.00_x_297.00_MM)</PageFormat>
+            <PerNextPage>28</PerNextPage>
+            <PerStartPage>26</PerStartPage>
+            <Text>Документ</Text>
+            <WordDocTemplate>A4(210x297)_form3.dot</WordDocTemplate>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>C_NAME</Tag>
+                <Text>Номер кабеля</Text>
+                <Visible>True</Visible>
+                <Width>21</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>C_TYPE</Tag>
+                <Text>Тип кабеля</Text>
+                <Visible>True</Visible>
+                <Width>37</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>START</Tag>
+                <Text>Начало</Text>
+                <Visible>True</Visible>
+                <Width>31</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>END</Tag>
+                <Text>Конец</Text>
+                <Visible>True</Visible>
+                <Width>31</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>LENGTH</Tag>
+                <Text>Общая длина, м.</Text>
+                <Visible>True</Visible>
+                <Width>24</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>S_LENGTH</Tag>
+                <Text>Общая длина с учетом запаса, м.</Text>
+                <Visible>True</Visible>
+                <Width>24</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="CableDicPatternTableItem">
+              <Properties>
+                <HasEndSpaceLine>True</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Name>OpsCableRecordRec</Name>
+                <Text>Запись кабельного журнала</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Номер кабеля</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CableNumber&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Номер кабеля</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Тип кабеля</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CableType&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Тип кабеля</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Начало</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Start&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Начало</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Конец</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;End&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Конец</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Общая длина, м.</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;GeneralLength&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Общая длина, м.</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Общая длина с учетом запаса, м.</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;GeneralLengthWithSafeStr&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Общая длина с учетом запаса, м.</Text>
+                  </Properties>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.49-56: ШС 1.5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1BIAS5.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>8,18</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>9</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1BIAS5.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1BIAS5.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>27,59</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>30,35</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>1BIAS5.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1BIAS5.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>33,6</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>36,96</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>X1.49-56: ШС 1.6</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+                <Value>1.1.1.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+                <Value>1BIAL6.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+                <Value>12,84</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+                <Value>14,12</Value>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Номер кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Тип кабеля</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Начало</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Конец</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина, м.</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Общая длина с учетом запаса, м.</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+  </Children>
+</DocReport>

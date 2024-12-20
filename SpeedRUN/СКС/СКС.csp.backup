@@ -17,11 +17,17 @@
       </File>
     </File>
     <File Path="Рабочие места\Work places.xml" Type="Рабочие места" Category="Документация" Version="1" />
-    <File Path="Кабельный журнал (ЛВС)\Cable register (LVC).xml" Type="Кабельный журнал (ЛВС)" Category="Документация" Version="1" />
+    <File Path="Кабельный журнал (ЛВС)\Cable register (LVC).xml" Type="Кабельный журнал (ЛВС)" Category="Документация" Version="1">
+      <File Path="Кабельный журнал (ЛВС)\ШТ1.xml" Type="Кабельный журнал (ЛВС)" Category="Документация" Version="1" />
+    </File>
     <File Path="Кабельный журнал (Магистр)\Cable register (Main connection).xml" Type="Кабельный журнал (Магистр.)" Category="Документация" Version="1" />
     <File Path="Кабельный журнал (Телефония)\Cable dictionary (Telephony).xml" Type="Кабельный журнал (Телефония)" Category="Документация" Version="1" />
-    <File Path="Структурная схема\schema structure.xml" Type="Структурная схема" Category="Документация" Version="1" />
-    <File Path="Условные обозначения\UgoList.xml" Type="Условные обозначения" Category="Таблицы" Version="1" />
+    <File Path="Структурная схема\schema structure.xml" Type="Структурная схема" Category="Документация" Version="1">
+      <File Path="Структурная схема\Здание 1.xml" Type="Настройки по зданию" Category="Документация" Version="1" />
+    </File>
+    <File Path="Условные обозначения\UgoList.xml" Type="Условные обозначения" Category="Таблицы" Version="1">
+      <File Path="Условные обозначения\План.xml" Type="Условные обозначения" Category="Таблицы" Version="1" />
+    </File>
     <File Path="Таблица прокладки кабелей.Магистр\Таблица прокладки кабелей (Магистр.).xml" Type="Таблица прокладки кабелей (Магистр.)" Category="Таблицы" Version="1" />
     <File Path="Таблица прокладки кабелей.Телефония\Таблица прокладки кабелей (Телефония).xml" Type="Таблица прокладки кабелей (Телефония)" Category="Таблицы" Version="1" />
     <File Path="Таблица прокладки кабелей.ЛВС\Таблица прокладки кабелей (ЛВС).xml" Type="Таблица прокладки кабелей (ЛВС)" Category="Таблицы" Version="1" />

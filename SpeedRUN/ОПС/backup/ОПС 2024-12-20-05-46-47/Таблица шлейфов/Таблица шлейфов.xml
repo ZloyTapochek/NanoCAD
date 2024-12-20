@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Таблица шлейфов</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>True</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>TrainTablePattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="OpsTrainTableDocumentItem">
+          <Properties>
+            <CadDocBlocks>trainTable.dwg</CadDocBlocks>
+            <CadDocFirstPage>A4(210x297)-1_form3.dwg</CadDocFirstPage>
+            <CadDocSecondPage>A4(210x297)-2.dwg</CadDocSecondPage>
+            <IsCategorized>False</IsCategorized>
+            <PageFormat>ISO_A4_(210.00_x_297.00_MM)</PageFormat>
+            <PerNextPage>28</PerNextPage>
+            <PerStartPage>26</PerStartPage>
+            <Text>Документ</Text>
+            <WordDocTemplate>A4(210x297)_form3.dot</WordDocTemplate>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>PPK</Tag>
+                <Text>№ ППК</Text>
+                <Visible>True</Visible>
+                <Width>30</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>LEVEL</Tag>
+                <Text>№ Этажа</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>TRAIN</Tag>
+                <Text>№ шлейфа</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>ROOMS</Tag>
+                <Text>№№ помещений</Text>
+                <Visible>True</Visible>
+                <Width>60</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>ANN</Tag>
+                <Text>Типы извещателей</Text>
+                <Visible>True</Visible>
+                <Width>50</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>COUNT</Tag>
+                <Text>Количество извещателей</Text>
+                <Visible>True</Visible>
+                <Width>25</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>NOTE</Tag>
+                <Text>Примечание</Text>
+                <Visible>True</Visible>
+                <Width>30</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="OpsTrainTablePatternTableItem">
+              <Properties>
+                <HasEndSpaceLine>True</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Name>OpsTrainTableRecord</Name>
+                <Text>Запись таблицы шлейфов</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>№ ППК</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;ControlDevice.OpsTrainTableMark&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№ ППК</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>№ Этажа</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;LevelNumber&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№ Этажа</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>№ шлейфа</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;SlotSocket.TrainName&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№ шлейфа</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>№№ помещений</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Rooms&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№№ помещений</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Типы извещателей</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Annunciator&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Типы извещателей</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Количество извещателей</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;AnnunciatorCount&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Количество извещателей</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Примечание</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Примечание</Text>
+                  </Properties>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№ ППК</ColumnName>
+                <Value>ARK 1
+(Рубеж-2ОП прот. R3)</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№ Этажа</ColumnName>
+                <Value>0 этаж</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№ шлейфа</ColumnName>
+                <Value>1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№№ помещений</ColumnName>
+                <Value>21. -</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Типы извещателей</ColumnName>
+                <Value>АМП-4-R3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Количество извещателей</ColumnName>
+                <Value>7</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№ ППК</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№ Этажа</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№ шлейфа</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>№№ помещений</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Типы извещателей</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Количество извещателей</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+  </Children>
+</DocReport>

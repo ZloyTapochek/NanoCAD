@@ -1,0 +1,25 @@
+﻿<Table>
+  <OpsCommonProjectSettings>
+    <AddWireLength>10</AddWireLength>
+    <MaxCanalFill>40</MaxCanalFill>
+    <MaxGutterFill>50</MaxGutterFill>
+    <MaxTubeFill>50</MaxTubeFill>
+    <TraceRoutingMethod>Precise</TraceRoutingMethod>
+    <IsTraceFireProofMode>True</IsTraceFireProofMode>
+    <ZipFireSensor>10</ZipFireSensor>
+    <ZipSecurity>10</ZipSecurity>
+    <ZipFireSensorBase>10</ZipFireSensorBase>
+    <ZipLineAddresses>20</ZipLineAddresses>
+    <ShiftVector>-7</ShiftVector>
+    <ShiftXVector>2</ShiftXVector>
+    <CableCanalMeasureUnit>METRE</CableCanalMeasureUnit>
+    <GutterMeasureUnit>METRE</GutterMeasureUnit>
+    <InfoMeasureUnit>METRE</InfoMeasureUnit>
+    <CalcVoltageLoss>False</CalcVoltageLoss>
+    <ConstantSoundLevelOverhead>15</ConstantSoundLevelOverhead>
+    <DistanceOfDetection>20</DistanceOfDetection>
+    <DistanceOfRecognition>100</DistanceOfRecognition>
+    <DistanceOfIdentification>250</DistanceOfIdentification>
+    <LinearFireSensorCeilDistance>600</LinearFireSensorCeilDistance>
+  </OpsCommonProjectSettings>
+</Table>

@@ -311,97 +311,13 @@
             <Child TypeName="DocRecordFieldItem">
               <Properties>
                 <ColumnName>Кабель, жгут</ColumnName>
-                <Value>.1.1</Value>
+                <Value>-.1</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">
               <Properties>
                 <ColumnName>Откуда</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда: Этаж</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда: Помещение</ColumnName>
-                <Value>21</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда</ColumnName>
-                <Value>X.X</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда: Этаж</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда: Помещение</ColumnName>
-                <Value>R</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
-                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Обозначение</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Примечание</ColumnName>
-              </Properties>
-            </Child>
-          </Children>
-        </Child>
-        <Child TypeName="DocRecordItem">
-          <Properties>
-            <IsCategorized>False</IsCategorized>
-          </Properties>
-          <Children>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, жгут</ColumnName>
-                <Value>.2.1</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда</ColumnName>
+                <Value>Устройство ОПС</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">
@@ -431,96 +347,11 @@
             <Child TypeName="DocRecordFieldItem">
               <Properties>
                 <ColumnName>Куда: Помещение</ColumnName>
-                <Value>1</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
-                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Обозначение</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Примечание</ColumnName>
-              </Properties>
-            </Child>
-          </Children>
-        </Child>
-        <Child TypeName="DocRecordItem">
-          <Properties>
-            <IsCategorized>False</IsCategorized>
-          </Properties>
-          <Children>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, жгут</ColumnName>
-                <Value>.3.1</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда: Этаж</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда: Помещение</ColumnName>
                 <Value>21</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">
               <Properties>
-                <ColumnName>Куда</ColumnName>
-                <Value>X.X</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда: Этаж</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда: Помещение</ColumnName>
-                <Value>1</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
                 <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
                 <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
               </Properties>
@@ -528,92 +359,7 @@
             <Child TypeName="DocRecordFieldItem">
               <Properties>
                 <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Обозначение</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Примечание</ColumnName>
-              </Properties>
-            </Child>
-          </Children>
-        </Child>
-        <Child TypeName="DocRecordItem">
-          <Properties>
-            <IsCategorized>False</IsCategorized>
-          </Properties>
-          <Children>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, жгут</ColumnName>
-                <Value>.4.1</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда</ColumnName>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда: Этаж</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Откуда: Помещение</ColumnName>
-                <Value>21</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда</ColumnName>
-                <Value>X.7</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда: Этаж</ColumnName>
-                <Value>0</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Куда: Помещение</ColumnName>
-                <Value>2</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
-                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
-              </Properties>
-            </Child>
-            <Child TypeName="DocRecordFieldItem">
-              <Properties>
-                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
-                <Value>74.1</Value>
+                <Value>7.77</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">
@@ -709,7 +455,7 @@
             <Child TypeName="DocRecordFieldItem">
               <Properties>
                 <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
-                <Value>70,27</Value>
+                <Value>1,19</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">
@@ -788,7 +534,1975 @@
             <Child TypeName="DocRecordFieldItem">
               <Properties>
                 <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
-                <Value>0,54</Value>
+                <Value>3,29</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>ARK 1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>9.68</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>3,29</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>4,75</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.3</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>ARK 1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>4.38</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.4</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>X1.1-8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>4.38</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>X1.9-16</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>4.38</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.6</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>X1.17-24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>4.38</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.7</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>X1.25-32</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>4.38</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.8</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>X1.33-40</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>5.33</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>2,06</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.9</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>X1.41-48</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X1.49-56</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ВВГнг(А)-LSLTx 1кВ 2x1,5</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>4.51</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,24</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>1,64</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">
@@ -2757,6 +4471,510 @@
               <Properties>
                 <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
                 <Value>1,64</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X.X</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>R</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X.X</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+                <Value>-.1</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+                <Value>Устройство ОПС</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+                <Value>21</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+                <Value>X.7</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+                <Value>0</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+                <Value>2</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+                <Value>ParLan ARM PS U/UTP Cat5e PVCLS нг(А)-FRLS 2х2х0,52</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+                <Value>75.22</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>3,29</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>Л ППЛ 20 СП</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>71,39</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Факт-ая длина, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Примечание</ColumnName>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="DocRecordItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+          </Properties>
+          <Children>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, жгут</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Откуда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Этаж</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Куда: Помещение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Марка, число жил, сечение</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провод: Проект-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Кабель, провода: Факт-ая длина кабеля, м</ColumnName>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Обозначение</ColumnName>
+                <Value>-</Value>
+              </Properties>
+            </Child>
+            <Child TypeName="DocRecordFieldItem">
+              <Properties>
+                <ColumnName>Способ прокладки: Проект-ая длина, м</ColumnName>
+                <Value>0,54</Value>
               </Properties>
             </Child>
             <Child TypeName="DocRecordFieldItem">

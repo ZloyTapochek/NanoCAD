@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Расчет акустики</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>True</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>SoundTablePattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="OpsSoundTableDocumentItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+            <PageFormat>ISO_A4_(210.00_x_297.00_MM)</PageFormat>
+            <PerNextPage>28</PerNextPage>
+            <PerStartPage>26</PerStartPage>
+            <Text>Документ</Text>
+            <WordDocTemplate>A4(210x297)_form3.dot</WordDocTemplate>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>ROOM</Tag>
+                <Text>Помещение</Text>
+                <Visible>True</Visible>
+                <Width>30</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>SQUARE</Tag>
+                <Text>Площадь помещения, м2</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>NOISE</Tag>
+                <Text>Уровень шума, дБ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>NEEDLEVEL</Tag>
+                <Text>Требуемый уровень звука оповещения, дБ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>NOTIFIER</Tag>
+                <Text>Маркировка/Оповещатель</Text>
+                <Visible>True</Visible>
+                <Width>30</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Тип установки</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>POWER</Tag>
+                <Text>Мощность, Вт</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Число оповещателей в точке, Nдин, шт</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>CALC_LEVEL</Tag>
+                <Text>Уровень звука оповещателя SPL (1 Вт/м, Nдин), дБ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Уровень звука на расстоянии 3м, SPL (3м), дБ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Уровень звука в точке установки, SPL (max), дБ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Длина L-отрезка, м</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Уровень звука в контрольной точке, SPL(p), дБ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Tag>DESC</Tag>
+                <Text>Примечание</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Здание</Text>
+                <Visible>False</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocCategoryItem">
+              <Properties>
+                <DoCategoryGrouping>True</DoCategoryGrouping>
+                <HasEndSpaceLine>True</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Text>Здание</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>CATEGORIZE</ColumnType>
+                    <DocumentColumn>Помещение</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Здание&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Здание</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="OpsSoundTablePatternTableItem">
+                  <Properties>
+                    <HasEndSpaceLine>True</HasEndSpaceLine>
+                    <HasSplitLine>False</HasSplitLine>
+                    <HasStartSpaceLine>False</HasStartSpaceLine>
+                    <IsCategorized>True</IsCategorized>
+                    <Name>OpsSoundAlarmRoomRecord</Name>
+                    <Text>Запись таблицы отчета оповещения</Text>
+                  </Properties>
+                  <Children>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Помещение</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;Contour.RoomName&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Помещение</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Площадь помещения, м2</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;Contour.RoomArea&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Площадь помещения, м2</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Уровень шума, дБ</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;OpsRoomData.NoiseLevel&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Уровень шума, дБ</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Требуемый уровень звука оповещения, дБ</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;OpsRoomData.SoundLevel&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Требуемый уровень звука оповещения, дБ</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Маркировка/Оповещатель</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;NotifierLableAndBd&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Маркировка/Оповещатель</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Тип установки</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;UsedMountTypes&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Тип установки</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Мощность, Вт</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.Power&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Мощность, Вт</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Число оповещателей в точке, Nдин, шт</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.NotifiersCount&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Число оповещателей в точке, Nдин, шт</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Уровень звука оповещателя SPL (1 Вт/м, Nдин), дБ</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.SoundSum&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Уровень звука оповещателя SPL (1 Вт/м, Nдин), дБ</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Уровень звука на расстоянии 3м, SPL (3м), дБ</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.Sound3m&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Уровень звука на расстоянии 3м, SPL (3м), дБ</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Уровень звука в точке установки, SPL (max), дБ</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.SoundMax&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Уровень звука в точке установки, SPL (max), дБ</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Длина L-отрезка, м</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.LSegmentLength&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Длина L-отрезка, м</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Уровень звука в контрольной точке, SPL(p), дБ</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;WorseNotifier.SoundLevel&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Уровень звука в контрольной точке, SPL(p), дБ</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Примечание</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Примечание</Text>
+                      </Properties>
+                    </Child>
+                    <Child TypeName="PatternTableColumnItem">
+                      <Properties>
+                        <AddColumnType>DIGITAL</AddColumnType>
+                        <ColumnType>NOT_CATEGORIZE</ColumnType>
+                        <DocumentColumn>Здание</DocumentColumn>
+                        <IsCategorized>False</IsCategorized>
+                        <Mask>&lt;BuildingGroup&gt;</Mask>
+                        <RoundPrecision>0</RoundPrecision>
+                        <RoundType>NotRound</RoundType>
+                        <Text>Здание</Text>
+                      </Properties>
+                    </Child>
+                  </Children>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+    </Child>
+  </Children>
+</DocReport>

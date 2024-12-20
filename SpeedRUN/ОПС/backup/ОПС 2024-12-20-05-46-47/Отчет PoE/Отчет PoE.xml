@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Отчет PoE</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>True</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>PoeTablePattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="OpsPoePowerTableDocumentItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+            <PageFormat>ISO_A4_(210.00_x_297.00_MM)</PageFormat>
+            <PerNextPage>28</PerNextPage>
+            <PerStartPage>26</PerStartPage>
+            <Text>Документ</Text>
+            <WordDocTemplate>Таблица отчет по PoE_form3.dot</WordDocTemplate>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Тип устройства</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Мощность, Вт</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Кол-во</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Итого, Вт</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="OpsPoePowerTablePatternTableItem">
+              <Properties>
+                <HasEndSpaceLine>False</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Name>OpsPoePowerRecord</Name>
+                <Text>Запись таблицы отчета видеонаблюдения</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Тип устройства</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>[CH+]. &lt;Label&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Обозначение</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Мощность, Вт</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;SumPoe&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Мощность, Вт</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Кол-во</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Count&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Количество</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Итого, Вт</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;SumPoe&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Мощность оборудования</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="DocPattern">
+                  <Properties>
+                    <Category>Структура записи</Category>
+                    <DoGroupByTables>True</DoGroupByTables>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;DeviceList&gt;</Mask>
+                    <SchemaName>PoePowerSubDeviceSchema</SchemaName>
+                    <Text>Структура оборудования</Text>
+                  </Properties>
+                  <Children>
+                    <Child TypeName="PatternStructureItem">
+                      <Properties>
+                        <IsCategorized>True</IsCategorized>
+                        <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+                        <Text>Структура</Text>
+                      </Properties>
+                      <Children>
+                        <Child TypeName="OpsPoePowerTablePatternTableItem">
+                          <Properties>
+                            <HasEndSpaceLine>False</HasEndSpaceLine>
+                            <HasSplitLine>False</HasSplitLine>
+                            <HasStartSpaceLine>False</HasStartSpaceLine>
+                            <IsCategorized>True</IsCategorized>
+                            <Name>OpsPoeDeviceRecord</Name>
+                            <Text>Таблица оборудования Poe</Text>
+                          </Properties>
+                          <Children>
+                            <Child TypeName="PatternTableColumnItem">
+                              <Properties>
+                                <AddColumnType>DIGITAL</AddColumnType>
+                                <ColumnType>CATEGORIZE</ColumnType>
+                                <DocumentColumn>Тип устройства</DocumentColumn>
+                                <IsCategorized>False</IsCategorized>
+                                <Mask>    - &lt;Label&gt;</Mask>
+                                <RoundPrecision>0</RoundPrecision>
+                                <RoundType>NotRound</RoundType>
+                                <Text>Обозначение</Text>
+                              </Properties>
+                            </Child>
+                            <Child TypeName="PatternTableColumnItem">
+                              <Properties>
+                                <AddColumnType>DIGITAL</AddColumnType>
+                                <ColumnType>CATEGORIZE</ColumnType>
+                                <DocumentColumn>Мощность, Вт</DocumentColumn>
+                                <IsCategorized>False</IsCategorized>
+                                <Mask>&lt;PoePower&gt;</Mask>
+                                <RoundPrecision>0</RoundPrecision>
+                                <RoundType>NotRound</RoundType>
+                                <Text>Мощность, Вт</Text>
+                              </Properties>
+                            </Child>
+                            <Child TypeName="PatternTableColumnItem">
+                              <Properties>
+                                <AddColumnType>DIGITAL</AddColumnType>
+                                <ColumnType>ADD</ColumnType>
+                                <DocumentColumn>Кол-во</DocumentColumn>
+                                <IsCategorized>False</IsCategorized>
+                                <Mask>&lt;Count&gt;</Mask>
+                                <RoundPrecision>0</RoundPrecision>
+                                <RoundType>NotRound</RoundType>
+                                <Text>Количество</Text>
+                              </Properties>
+                            </Child>
+                            <Child TypeName="PatternTableColumnItem">
+                              <Properties>
+                                <AddColumnType>DIGITAL</AddColumnType>
+                                <ColumnType>ADD</ColumnType>
+                                <DocumentColumn>Итого, Вт</DocumentColumn>
+                                <IsCategorized>False</IsCategorized>
+                                <Mask>&lt;SumPower&gt;</Mask>
+                                <RoundPrecision>0,01</RoundPrecision>
+                                <RoundType>Ceiling</RoundType>
+                                <Text>Мощность оборудования</Text>
+                              </Properties>
+                            </Child>
+                          </Children>
+                        </Child>
+                      </Children>
+                    </Child>
+                  </Children>
+                </Child>
+                <Child TypeName="PatternCounterItem">
+                  <Properties>
+                    <Description>Счетчик коммутаторов</Description>
+                    <Name>CH</Name>
+                    <Start>0</Start>
+                  </Properties>
+                </Child>
+                <Child TypeName="DocPattern">
+                  <Properties>
+                    <Category>Структура записи</Category>
+                    <DoGroupByTables>True</DoGroupByTables>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;SummaryList&gt;</Mask>
+                    <SchemaName>PoePowerSummarySchema</SchemaName>
+                    <Text>Итог PoE</Text>
+                  </Properties>
+                  <Children>
+                    <Child TypeName="PatternStructureItem">
+                      <Properties>
+                        <IsCategorized>True</IsCategorized>
+                        <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+                        <Text>Структура</Text>
+                      </Properties>
+                      <Children>
+                        <Child TypeName="OpsPoePowerTablePatternTableItem">
+                          <Properties>
+                            <HasEndSpaceLine>True</HasEndSpaceLine>
+                            <HasSplitLine>False</HasSplitLine>
+                            <HasStartSpaceLine>False</HasStartSpaceLine>
+                            <IsCategorized>True</IsCategorized>
+                            <Name>OpsPoePowerSummaryRecord</Name>
+                            <Text>Итог PoE</Text>
+                          </Properties>
+                          <Children>
+                            <Child TypeName="PatternTableColumnItem">
+                              <Properties>
+                                <AddColumnType>DIGITAL</AddColumnType>
+                                <ColumnType>NOT_CATEGORIZE</ColumnType>
+                                <DocumentColumn>Тип устройства</DocumentColumn>
+                                <IsCategorized>False</IsCategorized>
+                                <Mask>&lt;Label&gt;</Mask>
+                                <RoundPrecision>0</RoundPrecision>
+                                <RoundType>NotRound</RoundType>
+                                <Text>Обозначение</Text>
+                              </Properties>
+                            </Child>
+                            <Child TypeName="PatternTableColumnItem">
+                              <Properties>
+                                <AddColumnType>DIGITAL</AddColumnType>
+                                <ColumnType>NOT_CATEGORIZE</ColumnType>
+                                <DocumentColumn>Итого, Вт</DocumentColumn>
+                                <IsCategorized>False</IsCategorized>
+                                <Mask>&lt;PoePower&gt;</Mask>
+                                <RoundPrecision>0</RoundPrecision>
+                                <RoundType>NotRound</RoundType>
+                                <Text>Итог</Text>
+                              </Properties>
+                            </Child>
+                          </Children>
+                        </Child>
+                      </Children>
+                    </Child>
+                  </Children>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+    </Child>
+  </Children>
+</DocReport>

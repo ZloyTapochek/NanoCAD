@@ -1,0 +1,8 @@
+﻿<Table>
+  <OpsStampInfo>
+    <DeveloperPerson></DeveloperPerson>
+    <CheckerPerson></CheckerPerson>
+    <AcceptPerson></AcceptPerson>
+    <Number>&lt;Код организации разработчика&gt;-&lt;Код классификационной характеристики изделия&gt;-&lt;Порядковый номер проекта&gt;-&lt;Номер редакции проекта&gt;-&lt;Стадия проекта в номере&gt;-&lt;Номер тома&gt;-&lt;Обозначение документа&gt;</Number>
+  </OpsStampInfo>
+</Table>

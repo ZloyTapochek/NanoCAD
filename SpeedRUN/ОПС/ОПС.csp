@@ -3,7 +3,11 @@
   <Files>
     <File Path="ОПС.db" Type="СКС" Category="Базы данных" Version="1" />
     <File Path="Dwg3dModel.dwg" Type="3D Модель" Category="3D Модель" Version="1" />
-    <File Path="Спецификация\Specification.xml" Type="Спецификация" Category="Документация" Version="1" />
+    <File Path="Спецификация\Specification.xml" Type="Спецификация" Category="Документация" Version="1">
+      <File Path="Спецификация\Спецификация по зданию 1.xml" Type="Спецификация" Category="Документация" Version="1">
+        <File Path="Спецификация\Здание 1 Этаж 0.xml" Type="Спецификация" Category="Документация" Version="1" />
+      </File>
+    </File>
     <File Path="Ведомость рабочих чертежей\Sketch register.xml" Type="Ведомость рабочих чертежей" Category="Документация" Version="1" />
     <File Path="Ведомость объемов работ\Works register.xml" Type="Ведомость объемов работ" Category="Документация" Version="1" />
     <File Path="Ведомость ссылочных и прилагаемых документов\Document register.xml" Type="Ведомость ссылочных и прилагаемых документов" Category="Документация" Version="1" />
@@ -12,9 +16,23 @@
         <File Path="Экспликация помещений\Здание 1 Этаж 0.xml" Type="Экспликация помещений" Category="Таблицы" Version="1" />
       </File>
     </File>
-    <File Path="Кабельный журнал шлейфов сигнализации\Cable signal register.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+    <File Path="Кабельный журнал шлейфов сигнализации\Cable signal register.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1">
+      <File Path="Кабельный журнал шлейфов сигнализации\ARK 1.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\Без имени.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.1-8.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.9-16.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.17-24.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.25-32.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.33-40.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.49-56.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал шлейфов сигнализации\X1.41-48.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+    </File>
     <File Path="Кабельный журнал интерфейсных шлейфов\Cable interface register.xml" Type="Кабельный журнал интерфейсных шлейфов" Category="Кабельные журналы" Version="1" />
-    <File Path="Кабельный журнал электропитания\Cable supply register.xml" Type="Кабельный журнал электропитания" Category="Кабельные журналы" Version="1" />
+    <File Path="Кабельный журнал электропитания\Cable supply register.xml" Type="Кабельный журнал электропитания" Category="Кабельные журналы" Version="1">
+      <File Path="Кабельный журнал электропитания\Без имени.xml" Type="Кабельный журнал электропитания" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал электропитания\X1.49-56.xml" Type="Кабельный журнал электропитания" Category="Кабельные журналы" Version="1" />
+      <File Path="Кабельный журнал электропитания\X1.41-48.xml" Type="Кабельный журнал электропитания" Category="Кабельные журналы" Version="1" />
+    </File>
     <File Path="Таблица прокладки кабелей\Таблица прокладки кабелей.xml" Type="Таблица прокладки кабелей" Category="Таблицы" Version="1" />
     <File Path="Таблица адресов\Таблица адресов.xml" Type="Таблица адресов" Category="Таблицы" Version="1">
       <File Path="Таблица адресов\ARK 1.xml" Type="Таблица адресов" Category="Таблицы" Version="1" />
@@ -33,7 +51,11 @@
     </File>
     <File Path="Расчет уровней звука\Таблица звукового оповещения.xml" Type="Расчет акустики" Category="Оповещение" Version="1" />
     <File Path="Отчет PoE\Отчет PoE.xml" Type="Отчет PoE" Category="Видеонаблюдение" Version="1" />
-    <File Path="Расчет видеонаблюдения\Таблица расчета зон обзора видеокамер.xml" Type="Расчет видеонаблюдения" Category="Видеонаблюдение" Version="1" />
+    <File Path="Расчет видеонаблюдения\Таблица расчета зон обзора видеокамер.xml" Type="Расчет видеонаблюдения" Category="Видеонаблюдение" Version="1">
+      <File Path="Расчет видеонаблюдения\Здание 1.xml" Type="Расчет видеонаблюдения" Category="Видеонаблюдение" Version="1">
+        <File Path="Расчет видеонаблюдения\Здание 1 Этаж 0.xml" Type="Расчет видеонаблюдения" Category="Видеонаблюдение" Version="1" />
+      </File>
+    </File>
     <File Path="Расчет токов РИП\Таблица токов.xml" Type="Расчет токов РИП" Category="Расчет токов" Version="1" />
     <File Path="ПланОПС.dwg" Type="План" Category="Чертежи" Version="1" />
   </Files>

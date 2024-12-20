@@ -1,0 +1,146 @@
+﻿<Table>
+  <MarkableInfo>
+    <Text>ППК</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;Номер ППК&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Извещатели пожарные точечные</Text>
+    <Mask>&lt;Номер ППК.Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>Пожарный извещатель</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Извещатели пожарные ручные</Text>
+    <Mask>&lt;Номер ППК.Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>Ручной пожарный извещатель</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Извещатель линейный. (Излучатель+Приемник)</Text>
+    <Mask>&lt;Номер ППК.Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Извещатель линейный. Излучатель</Text>
+    <Mask>&lt;Номер ППК.Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Извещатель линейный. Приемник</Text>
+    <Mask>&lt;Номер ППК.Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Извещатели охранные</Text>
+    <Mask>&lt;Номер ППК.Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Сетевые устройства</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;Номер СУ&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Исполнительные устройства</Text>
+    <Mask>&lt;Номер ППК&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>СКУД</Text>
+    <Mask>&lt;Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>Система контроля управлением доступа</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Резервные источники питания</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;Номер РИП&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Оповещатели</Text>
+    <Mask>&lt;Номер ППК/Номер СУ/Номер усилителя&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>normal</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Указатели</Text>
+    <Mask>&lt;Номер ППК/Номер СУ/Номер усилителя&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId>pointer</VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Устройства окончания шлейфа</Text>
+    <Mask>&lt;Номер ППК&gt;&lt;Номер ППК&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Видеокамеры</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;Номер видеоустройства&gt;.&lt;Номер шлейфа&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Оборудование видеонаблюдения</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;Номер устройства&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Устройства контроля и управления</Text>
+    <Mask>&lt;Номер СУ&gt;&lt;Многобуквенный код&gt;&lt;Номер шлейфа&gt;.&lt;Адрес / Порядковый номер в шлейфе&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Распределительные коробки</Text>
+    <Mask>&lt;Многобуквенный код&gt;.&lt;№ в здании&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Распределительные коробки (звезда)</Text>
+    <Mask>&lt;Многобуквенный код&gt;.&lt;№ в здании&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Распределительные коробки. Подключение.</Text>
+    <Mask>&lt;Обозначение коробки&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Устройства защиты от КЗ</Text>
+    <Mask>&lt;Многобуквенный код&gt;&lt;№ этажа&gt;.&lt;№ на этаже&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Усилитель звуковой (Панель)</Text>
+    <Mask>&lt;Обозначение&gt;.&lt;Номер панели&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Монтажный шкаф</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;№ в здании&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+  <MarkableInfo>
+    <Text>Монтажный шкаф (Панели 19″)</Text>
+    <Mask>&lt;Многобуквенный код&gt; &lt;№ в здании&gt;</Mask>
+    <IsDoAutoMarking>True</IsDoAutoMarking>
+    <VariantId></VariantId>
+  </MarkableInfo>
+</Table>
