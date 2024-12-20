@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Type="СКС" Name="СКС" Version="1">
+  <Files>
+    <File Path="СКС.db" Type="СКС" Category="Базы данных" Version="1" />
+    <File Path="Dwg3dModel.dwg" Type="3D Модель" Category="3D Модель" Version="1" />
+    <File Path="Спецификация\Specification.xml" Type="Спецификация" Category="Документация" Version="1" />
+    <File Path="Ведомость рабочих чертежей\Sketch register.xml" Type="Ведомость рабочих чертежей" Category="Документация" Version="1" />
+    <File Path="Ведомость объемов работ\Works register.xml" Type="Ведомость объемов работ" Category="Документация" Version="1" />
+    <File Path="Ведомость ссылочных и прилагаемых документов\Document register.xml" Type="Ведомость ссылочных и прилагаемых документов" Category="Документация" Version="1" />
+    <File Path="Экспликация помещений\Room explication.xml" Type="Экспликация помещений" Category="Таблицы" Version="1">
+      <File Path="Экспликация помещений\Здание 1.xml" Type="Экспликация помещений" Category="Таблицы" Version="1">
+        <File Path="Экспликация помещений\Здание 1 Этаж 0.xml" Type="Экспликация помещений" Category="Таблицы" Version="1" />
+      </File>
+    </File>
+    <File Path="Рабочие места\Work places.xml" Type="Рабочие места" Category="Документация" Version="1" />
+    <File Path="Кабельный журнал (ЛВС)\Cable register (LVC).xml" Type="Кабельный журнал (ЛВС)" Category="Документация" Version="1" />
+    <File Path="Кабельный журнал (Магистр)\Cable register (Main connection).xml" Type="Кабельный журнал (Магистр.)" Category="Документация" Version="1" />
+    <File Path="Кабельный журнал (Телефония)\Cable dictionary (Telephony).xml" Type="Кабельный журнал (Телефония)" Category="Документация" Version="1" />
+    <File Path="Структурная схема\schema structure.xml" Type="Структурная схема" Category="Документация" Version="1" />
+    <File Path="Условные обозначения\UgoList.xml" Type="Условные обозначения" Category="Таблицы" Version="1" />
+    <File Path="Таблица прокладки кабелей.Магистр\Таблица прокладки кабелей (Магистр.).xml" Type="Таблица прокладки кабелей (Магистр.)" Category="Таблицы" Version="1" />
+    <File Path="Таблица прокладки кабелей.Телефония\Таблица прокладки кабелей (Телефония).xml" Type="Таблица прокладки кабелей (Телефония)" Category="Таблицы" Version="1" />
+    <File Path="Таблица прокладки кабелей.ЛВС\Таблица прокладки кабелей (ЛВС).xml" Type="Таблица прокладки кабелей (ЛВС)" Category="Таблицы" Version="1" />
+    <File Path="План.dwg" Type="План" Category="Чертежи" Version="1" />
+  </Files>
+  <Custom>
+    <ScsProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <StampCustomerName />
+      <StampBuildingAddress />
+      <StampObjectUsing />
+      <StampObjectZero />
+      <StampProjectName />
+      <StampProjectStage />
+      <StampProjectCode />
+      <StampOrganizationName />
+      <StampOrganizationCode />
+      <StampDocumentCode>&lt;Код организации разработчика&gt;-&lt;Код классификационной характеристики изделия&gt;-&lt;Порядковый номер проекта&gt;-&lt;Номер редакции проекта&gt;-&lt;Стадия проекта в номере&gt;-&lt;Номер тома&gt;-&lt;Обозначение документа&gt;-&lt;Порядковый номер документа&gt;</StampDocumentCode>
+      <StampExDeveloper />
+      <StampExCheck />
+      <StampExManager />
+      <StampExDepManager />
+      <StampExNControl />
+      <StampExConfirm />
+      <StampGIP />
+      <Guid>cbde87e6-e7d9-4a6f-af3a-952694fe674a</Guid>
+      <HeightList />
+      <MountFreqList />
+      <IsFarLinksConverted>true</IsFarLinksConverted>
+      <TraceRoutingMethod>Precise</TraceRoutingMethod>
+      <ReserveForTraceRouteMethod>20</ReserveForTraceRouteMethod>
+      <AddLengthPtoP>10</AddLengthPtoP>
+      <AddLengthPan>4</AddLengthPan>
+      <AddLengthPort>1</AddLengthPort>
+      <LengthSafeCoef>10</LengthSafeCoef>
+      <NumWpAlgorithm>Wp_Room_Alg</NumWpAlgorithm>
+      <MaxCuprumLength>90</MaxCuprumLength>
+      <MinHorizontalLength>15</MinHorizontalLength>
+      <MaxCanalFill>40</MaxCanalFill>
+      <MaxGutterFill>50</MaxGutterFill>
+      <MaxTubeFill>50</MaxTubeFill>
+      <SquarePerWp>4.5</SquarePerWp>
+      <WpNoteShift>5</WpNoteShift>
+      <HorizontalCrossMrk>HC</HorizontalCrossMrk>
+      <IntermediateCrossMrk>IC</IntermediateCrossMrk>
+      <MainCrossMrk>MC</MainCrossMrk>
+      <PhoneCrossMrk>TC</PhoneCrossMrk>
+      <SecondViewCrossMrk>DC</SecondViewCrossMrk>
+      <PanelId>-1</PanelId>
+      <PanelOrder>MIDDLE</PanelOrder>
+      <PanelName>Панель</PanelName>
+      <HasPhoneCross>false</HasPhoneCross>
+      <PhoneId>-1</PhoneId>
+      <PhoneOrder>START</PhoneOrder>
+      <PhoneName>Панель</PhoneName>
+      <HasCommutation>false</HasCommutation>
+      <CommutationId>-1</CommutationId>
+      <СommutationOrder>END</СommutationOrder>
+      <CommutationName>Панель</CommutationName>
+      <HasSecondView>false</HasSecondView>
+      <SecondPanelId>-1</SecondPanelId>
+      <SecondViewOrder>END</SecondViewOrder>
+      <SecondViewName>Панель</SecondViewName>
+      <DistributeByLevel>false</DistributeByLevel>
+      <AttachMethod>ATTACH_ALL</AttachMethod>
+      <MeasureUnit>METRE</MeasureUnit>
+      <CableCanalMeasureUnit>METRE</CableCanalMeasureUnit>
+      <GutterMeasureUnit>METRE</GutterMeasureUnit>
+      <IsWorkPlacesConverted>true</IsWorkPlacesConverted>
+    </ScsProject>
+  </Custom>
+</Project>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Рабочие места</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>False</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>WpDicPattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="ScsWpDicPatternDocumentItem">
+          <Properties>
+            <IsCategorized>False</IsCategorized>
+            <Text>Документ</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Здание. № Этажа</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>№ помещения</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Наименование  конфигурации РМ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Кол-во РМ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Кол-во портов РМ</Text>
+                <Visible>True</Visible>
+                <Width>10</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="ScsWpDicPatternTableItem">
+              <Properties>
+                <HasEndSpaceLine>True</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Name>ScsWpRecord</Name>
+                <Text>Запись РМ</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>CATEGORIZE</ColumnType>
+                    <DocumentColumn>Здание. № Этажа</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;LevelBuilding&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Здание. № Этажа</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>CATEGORIZE</ColumnType>
+                    <DocumentColumn>№ помещения</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;RoomName&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>№ помещения</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>CATEGORIZE</ColumnType>
+                    <DocumentColumn>Наименование  конфигурации РМ</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;WpName&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Наименование  конфигурации РМ</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>CATEGORIZE</ColumnType>
+                    <DocumentColumn>Кол-во РМ</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Count&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Кол-во РМ</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>CATEGORIZE</ColumnType>
+                    <DocumentColumn>Кол-во портов РМ</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;PortData&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Кол-во портов РМ</Text>
+                  </Properties>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+    </Child>
+  </Children>
+</DocReport>
