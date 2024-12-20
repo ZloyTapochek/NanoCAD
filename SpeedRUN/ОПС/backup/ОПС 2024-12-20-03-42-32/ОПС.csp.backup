@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Type="ОПС" Name="ОПС" Version="1">
+  <Files>
+    <File Path="ОПС.db" Type="СКС" Category="Базы данных" Version="1" />
+    <File Path="Dwg3dModel.dwg" Type="3D Модель" Category="3D Модель" Version="1" />
+    <File Path="Спецификация\Specification.xml" Type="Спецификация" Category="Документация" Version="1" />
+    <File Path="Ведомость рабочих чертежей\Sketch register.xml" Type="Ведомость рабочих чертежей" Category="Документация" Version="1" />
+    <File Path="Ведомость объемов работ\Works register.xml" Type="Ведомость объемов работ" Category="Документация" Version="1" />
+    <File Path="Ведомость ссылочных и прилагаемых документов\Document register.xml" Type="Ведомость ссылочных и прилагаемых документов" Category="Документация" Version="1" />
+    <File Path="Экспликация помещений\Room explication.xml" Type="Экспликация помещений" Category="Таблицы" Version="1">
+      <File Path="Экспликация помещений\Здание 1.xml" Type="Экспликация помещений" Category="Таблицы" Version="1">
+        <File Path="Экспликация помещений\Здание 1 Этаж 0.xml" Type="Экспликация помещений" Category="Таблицы" Version="1" />
+      </File>
+    </File>
+    <File Path="Кабельный журнал шлейфов сигнализации\Cable signal register.xml" Type="Кабельный журнал" Category="Кабельные журналы" Version="1" />
+    <File Path="Кабельный журнал интерфейсных шлейфов\Cable interface register.xml" Type="Кабельный журнал интерфейсных шлейфов" Category="Кабельные журналы" Version="1" />
+    <File Path="Кабельный журнал электропитания\Cable supply register.xml" Type="Кабельный журнал электропитания" Category="Кабельные журналы" Version="1" />
+    <File Path="Таблица прокладки кабелей\Таблица прокладки кабелей.xml" Type="Таблица прокладки кабелей" Category="Таблицы" Version="1" />
+    <File Path="Таблица адресов\Таблица адресов.xml" Type="Таблица адресов" Category="Таблицы" Version="1" />
+    <File Path="Таблица шлейфов\Таблица шлейфов.xml" Type="Таблица шлейфов" Category="Таблицы" Version="1" />
+    <File Path="Таблица ЗКПС\Таблица ЗКПС.xml" Type="Таблица ЗКПС" Category="Таблицы" Version="1" />
+    <File Path="Подключения распределительных коробок\Таблица подключений распределительных коробок.xml" Type="Подключения распределительных коробок" Category="Таблицы" Version="1" />
+    <File Path="Структурная схема\Структурная схема.xml" Type="Структурная схема" Category="Документация" Version="1" />
+    <File Path="Таблица установки охранных извещателей\Таблица установки охранных извещателей.xml" Type="Таблица установки охранных извещателей" Category="Таблицы" Version="1" />
+    <File Path="Условные обозначения\UgoList.xml" Type="Условные обозначения" Category="Таблицы" Version="1" />
+    <File Path="Расчет уровней звука\Таблица звукового оповещения.xml" Type="Расчет акустики" Category="Оповещение" Version="1" />
+    <File Path="Отчет PoE\Отчет PoE.xml" Type="Отчет PoE" Category="Видеонаблюдение" Version="1" />
+    <File Path="Расчет видеонаблюдения\Таблица расчета зон обзора видеокамер.xml" Type="Расчет видеонаблюдения" Category="Видеонаблюдение" Version="1" />
+    <File Path="Расчет токов РИП\Таблица токов.xml" Type="Расчет токов РИП" Category="Расчет токов" Version="1" />
+    <File Path="ПланОПС.dwg" Type="План" Category="Чертежи" Version="1" />
+  </Files>
+  <Custom>
+    <OpsProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <StampCustomerName />
+      <StampBuildingAddress />
+      <StampObjectUsing />
+      <StampObjectZero />
+      <StampProjectName />
+      <StampProjectStage />
+      <StampProjectCode />
+      <StampOrganizationName />
+      <StampOrganizationCode />
+      <StampDocumentCode>&lt;Код организации разработчика&gt;-&lt;Код классификационной характеристики изделия&gt;-&lt;Порядковый номер проекта&gt;-&lt;Номер редакции проекта&gt;-&lt;Стадия проекта в номере&gt;-&lt;Номер тома&gt;-&lt;Обозначение документа&gt;-&lt;Порядковый номер документа&gt;</StampDocumentCode>
+      <StampExDeveloper />
+      <StampExCheck />
+      <StampExManager />
+      <StampExDepManager />
+      <StampExNControl />
+      <StampExConfirm />
+      <StampGIP />
+      <Guid>57a7c772-9a2e-493a-977e-4a686b99d1c5</Guid>
+      <HeightList />
+      <MountFreqList />
+      <IsFarLinksConverted>true</IsFarLinksConverted>
+      <IsNotifierEsnConverted>true</IsNotifierEsnConverted>
+    </OpsProject>
+  </Custom>
+</Project>

@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocReport>
+  <Properties>
+    <IsCategorized>False</IsCategorized>
+    <Text>Документ</Text>
+    <Type>Расчет видеонаблюдения</Type>
+  </Properties>
+  <Children>
+    <Child TypeName="DocPattern">
+      <Properties>
+        <Category>Структура записи</Category>
+        <DoGroupByTables>True</DoGroupByTables>
+        <IsCategorized>False</IsCategorized>
+        <SchemaName>VideoObservationTablePattern</SchemaName>
+        <Text>Шаблон документа</Text>
+      </Properties>
+      <Children>
+        <Child TypeName="OpsVideoObservationTableDocumentItem">
+          <Properties>
+            <CadDocFirstPage>Таблица расчета зон обзора видеокамер.dwg</CadDocFirstPage>
+            <IsCategorized>False</IsCategorized>
+            <PageFormat>ISO_A4_(210.00_x_297.00_MM)</PageFormat>
+            <PerNextPage>28</PerNextPage>
+            <PerStartPage>26</PerStartPage>
+            <Text>Документ</Text>
+            <WordDocTemplate>Таблица расчета зон обзора видеокамер_form3.dot</WordDocTemplate>
+          </Properties>
+          <Children>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Поз. №</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Видеокамера: Модель</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Видеокамера: Матрица: формат, размер, Дм</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Видеокамера: Разрешение матрицы, ТВЛ</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Объектив: Модель</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Объектив: Фокусное расстояние, мм</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Объектив: Угол горизонтальный, °</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Расчет зоны обзора видеокамеры: Высота установки камеры, м</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Расчет зоны обзора видеокамеры: Угол наклона камеры, °</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Расчет зоны обзора видеокамеры: Слепая зона, м</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Расчет зоны обзора видеокамеры: Дистанция обнаружения, м</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Расчет зоны обзора видеокамеры: Дистанция распознавания, м</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+            <Child TypeName="PatternDocumentColumnItem">
+              <Properties>
+                <Text>Расчет зоны обзора видеокамеры: Дистанция идентификации, м</Text>
+                <Visible>True</Visible>
+                <Width>20</Width>
+              </Properties>
+            </Child>
+          </Children>
+        </Child>
+        <Child TypeName="PatternStructureItem">
+          <Properties>
+            <IsCategorized>True</IsCategorized>
+            <IsSumForEveryBaseElement>False</IsSumForEveryBaseElement>
+            <Text>Структура</Text>
+          </Properties>
+          <Children>
+            <Child TypeName="OpsVideoObservationTablePatternTableItem">
+              <Properties>
+                <HasEndSpaceLine>True</HasEndSpaceLine>
+                <HasSplitLine>False</HasSplitLine>
+                <HasStartSpaceLine>False</HasStartSpaceLine>
+                <IsCategorized>True</IsCategorized>
+                <Name>OpsVideoObservationRecord</Name>
+                <Text>Запись таблицы отчета оповещения</Text>
+              </Properties>
+              <Children>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Поз. №</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;Position&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Поз. №</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Видеокамера: Модель</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CameraModel&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Видеокамера: Модель</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Видеокамера: Матрица: формат, размер, Дм</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CameraMatrixFormat&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Видеокамера: Матрица: формат, размер, Дм</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Видеокамера: Разрешение матрицы, ТВЛ</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CameraMatrixResolution&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Видеокамера: Разрешение матрицы, ТВЛ</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Объектив: Модель</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;LensModel&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Объектив: Модель</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Объектив: Фокусное расстояние, мм</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;LensFocus&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Объектив: Фокусное расстояние, мм</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Объектив: Угол горизонтальный, °</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;LensAngleHorizontal&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Объектив: Угол горизонтальный</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Расчет зоны обзора видеокамеры: Высота установки камеры, м</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CalcCameraHeight&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Расчет зоны обзора видеокамеры: Высота установки камеры, м</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Расчет зоны обзора видеокамеры: Угол наклона камеры, °</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CalcCameraAngle&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Расчет зоны обзора видеокамеры: Угол наклона камеры</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Расчет зоны обзора видеокамеры: Слепая зона, м</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CalcBlindZone&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Расчет зоны обзора видеокамеры: Слепая зона, м</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Расчет зоны обзора видеокамеры: Дистанция обнаружения, м</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CalcDistanceOfDetection&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Расчет зоны обзора видеокамеры: Дистанция обнаружения, м</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Расчет зоны обзора видеокамеры: Дистанция распознавания, м</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CalcDistanceOfRecognition&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Расчет зоны обзора видеокамеры: Дистанция распознавания, м</Text>
+                  </Properties>
+                </Child>
+                <Child TypeName="PatternTableColumnItem">
+                  <Properties>
+                    <AddColumnType>DIGITAL</AddColumnType>
+                    <ColumnType>NOT_CATEGORIZE</ColumnType>
+                    <DocumentColumn>Расчет зоны обзора видеокамеры: Дистанция идентификации, м</DocumentColumn>
+                    <IsCategorized>False</IsCategorized>
+                    <Mask>&lt;CalcDistanceOfIdentification&gt;</Mask>
+                    <RoundPrecision>0</RoundPrecision>
+                    <RoundType>NotRound</RoundType>
+                    <Text>Расчет зоны обзора видеокамеры: Дистанция идентификации, м</Text>
+                  </Properties>
+                </Child>
+              </Children>
+            </Child>
+          </Children>
+        </Child>
+      </Children>
+    </Child>
+    <Child TypeName="DocReportDataItem">
+      <Properties>
+        <IsCategorized>False</IsCategorized>
+        <Text>Данные</Text>
+      </Properties>
+    </Child>
+  </Children>
+</DocReport>

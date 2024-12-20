@@ -1,0 +1,16 @@
+﻿<Table>
+  <OpsSensorInstData>
+    <InstallSameFps>True</InstallSameFps>
+    <UgoFpsSmoke></UgoFpsSmoke>
+    <UgoFpsRaisedFloor></UgoFpsRaisedFloor>
+    <UgoFpsRaisedCeil></UgoFpsRaisedCeil>
+    <NotifierHeight>2,3</NotifierHeight>
+    <ScaControllerHeight>0</ScaControllerHeight>
+    <ReservePowerHeight>0</ReservePowerHeight>
+    <EntranceCheckerHeight>0</EntranceCheckerHeight>
+    <ExitCheckerHeight>0</ExitCheckerHeight>
+    <ButtonExitHeight>0</ButtonExitHeight>
+    <LockHeight>0</LockHeight>
+    <SensorConditionOfDoorHeight>0</SensorConditionOfDoorHeight>
+  </OpsSensorInstData>
+</Table>
